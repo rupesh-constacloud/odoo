@@ -1,0 +1,15 @@
+{
+    'name': 'My Custom Module',
+    'version': '1.0',
+    'summary': 'Test module',
+    'sequence': 10,
+    'description': 'A test custom module',
+    'author': 'Your Name',
+    'website': 'https://yourwebsite.com',
+    'category': 'Tools',
+    'depends': ['base'],
+    'data': [],
+    'installable': True,
+    'application': True,
+    'auto_install': False,
+}
